@@ -1,0 +1,42 @@
+ h1 {
+	color:white;
+  text-align:center;
+  
+}
+ 
+ body{
+ 
+ background: url(../darkwallpaper.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ }
+
+
+ }
+
+div {
+  color:white;
+}
+
+.github { 
+color: white;  
+}
+
+
+span.navigationSpace {
+    padding-left: 40px;
+}
+
+  
+
+
+.instagram{
+ color: white;  
+ 
+}
+.twitch {
+ color:white;
+ 
+}
